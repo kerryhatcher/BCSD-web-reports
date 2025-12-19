@@ -1,0 +1,6 @@
+# created by LinkChecker at 2025-12-17 14:54:41-004
+# Read the documentation at https://linkchecker.github.io/linkchecker/
+# Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+urlname;parentname;base;result;warningstring;infostring;valid;url;line;column;name;dltime;size;checktime;cached;level;modified
+https://northeast.bcsdk12.net/cms/One.aspx?portalId=1744709&pageId=2316476;https://northeast.bcsdk12.net/parents;;403 Forbidden;;;False;https://northeast.bcsdk12.net/cms/One.aspx?portalId=1744709&pageId=2316476;600;4;PBIS at Northeast;-1;-1;15.231752634048462;0;2;
+# Stopped checking at 2025-12-17 14:55:24-004 (43 seconds)

@@ -1,0 +1,19 @@
+# https://alexii.bcsdk12.net/
+
+Broken link findings: **13**
+
+| Error URL | Link found on | Error |
+| --- | --- | --- |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Beta%20Club%20Catalog%20Page%20Stanley.pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Beta%20Club%20Catalog%20Page%20Stanley.pdf) | [https://alexii.bcsdk12.net/students/clubs-organizations](https://alexii.bcsdk12.net/students/clubs-organizations) | 404 Not Found |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/DEAR%20Dogs%20Reading%20Club%20Catalog%20Page.pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/DEAR%20Dogs%20Reading%20Club%20Catalog%20Page.pdf) | [https://alexii.bcsdk12.net/students/clubs-organizations](https://alexii.bcsdk12.net/students/clubs-organizations) | 404 Not Found |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Future%20Teachers%20Catalog%20Page.pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Future%20Teachers%20Catalog%20Page.pdf) | [https://alexii.bcsdk12.net/students/clubs-organizations](https://alexii.bcsdk12.net/students/clubs-organizations) | 404 Not Found |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Math%20Team%20Catalog%20Page.pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Math%20Team%20Catalog%20Page.pdf) | [https://alexii.bcsdk12.net/students/clubs-organizations](https://alexii.bcsdk12.net/students/clubs-organizations) | 404 Not Found |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Parents/FY19%20Complaint%20Procedures.pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Parents/FY19%20Complaint%20Procedures.pdf) | [https://alexii.bcsdk12.net/parents](https://alexii.bcsdk12.net/parents) | 404 Not Found |
+| [https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Science%20Olympiad%20Club%20Catalog%20Page(1).pdf](https://alexii.bcsdk12.net/UserFiles/Servers/Server_1736320/File/Science%20Olympiad%20Club%20Catalog%20Page(1).pdf) | [https://alexii.bcsdk12.net/students/clubs-organizations](https://alexii.bcsdk12.net/students/clubs-organizations) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/Click%20here%20for%20First%20in%20Math](https://alexii.bcsdk12.net/cms/Click%20here%20for%20First%20in%20Math) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/Click%20here%20for%20Office%20365](https://alexii.bcsdk12.net/cms/Click%20here%20for%20Office%20365) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/Click%20here%20for%20Study%20Island](https://alexii.bcsdk12.net/cms/Click%20here%20for%20Study%20Island) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/Think%20Central](https://alexii.bcsdk12.net/cms/Think%20Central) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/click%20here%20for%20Keyboarding%20without%20Tears](https://alexii.bcsdk12.net/cms/click%20here%20for%20Keyboarding%20without%20Tears) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/click%20here%20for%20classlink](https://alexii.bcsdk12.net/cms/click%20here%20for%20classlink) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |
+| [https://alexii.bcsdk12.net/cms/destiny%20quest](https://alexii.bcsdk12.net/cms/destiny%20quest) | [https://alexii.bcsdk12.net/parents/quicklinks](https://alexii.bcsdk12.net/parents/quicklinks) | 404 Not Found |

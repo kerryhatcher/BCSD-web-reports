@@ -1,0 +1,20 @@
+# https://www.bcsdk12.net/
+
+Broken link findings: **14**
+
+| Error URL | Link found on | Error |
+| --- | --- | --- |
+| [https://www.bcsdk12.net/careers/special_programs/elam_alexander_academy](https://www.bcsdk12.net/careers/special_programs/elam_alexander_academy) | [https://www.bcsdk12.net/careers/special-programs](https://www.bcsdk12.net/careers/special-programs) | 404 Not Found |
+| [https://www.bcsdk12.net/careers/special_programs/northwoods_academy](https://www.bcsdk12.net/careers/special_programs/northwoods_academy) | [https://www.bcsdk12.net/careers/special-programs](https://www.bcsdk12.net/careers/special-programs) | 404 Not Found |
+| [https://www.bcsdk12.net/careers/special_programs/s_o_a_r_academy](https://www.bcsdk12.net/careers/special_programs/s_o_a_r_academy) | [https://www.bcsdk12.net/careers/special-programs](https://www.bcsdk12.net/careers/special-programs) | 404 Not Found |
+| [https://www.bcsdk12.net/careers/special_programs/v_i_p_academy](https://www.bcsdk12.net/careers/special_programs/v_i_p_academy) | [https://www.bcsdk12.net/careers/special-programs](https://www.bcsdk12.net/careers/special-programs) | 404 Not Found |
+| [https://www.bcsdk12.net/careers/special_programs/w__s__hutchings_college___career_academy](https://www.bcsdk12.net/careers/special_programs/w__s__hutchings_college___career_academy) | [https://www.bcsdk12.net/careers/special-programs](https://www.bcsdk12.net/careers/special-programs) | 404 Not Found |
+| [https://www.bcsdk12.net/cms/CTAE%20Department](https://www.bcsdk12.net/cms/CTAE%20Department) | [https://www.bcsdk12.net/departments/career-technical-and-agricultural-education/ctae-directory](https://www.bcsdk12.net/departments/career-technical-and-agricultural-education/ctae-directory) | 404 Not Found |
+| [https://www.bcsdk12.net/cms/Coding](https://www.bcsdk12.net/cms/Coding) | [https://www.bcsdk12.net/departments/instructional-technology](https://www.bcsdk12.net/departments/instructional-technology) | 404 Not Found |
+| [https://www.bcsdk12.net/cms/Darryl.Silas@bcsdk12.net](https://www.bcsdk12.net/cms/Darryl.Silas@bcsdk12.net) | [https://www.bcsdk12.net/departments/athletics/high-school-athletic-directors](https://www.bcsdk12.net/departments/athletics/high-school-athletic-directors) | 404 Not Found |
+| [https://www.bcsdk12.net/cms/www.bcsdk12.net/letstalk](https://www.bcsdk12.net/cms/www.bcsdk12.net/letstalk) | [https://www.bcsdk12.net/departments/communications/social-media-disclaimer](https://www.bcsdk12.net/departments/communications/social-media-disclaimer) | 404 Not Found |
+| [https://www.bcsdk12.net/departments/athletics/athletics_contact](https://www.bcsdk12.net/departments/athletics/athletics_contact) | [https://www.bcsdk12.net/departments/athletics](https://www.bcsdk12.net/departments/athletics) | 404 Not Found |
+| [https://www.bcsdk12.net/departments/finance/cfo_contact](https://www.bcsdk12.net/departments/finance/cfo_contact) | [https://www.bcsdk12.net/departments/finance](https://www.bcsdk12.net/departments/finance) | 404 Not Found |
+| [https://www.bcsdk12.net/departments/project_aware/behavior_screening_information](https://www.bcsdk12.net/departments/project_aware/behavior_screening_information) | [https://www.bcsdk12.net/departments/student-affairs/mentalhealthservices/frequently-asked-questions](https://www.bcsdk12.net/departments/student-affairs/mentalhealthservices/frequently-asked-questions) | 404 Not Found |
+| [https://www.bcsdk12.net/departments/safety_and_risk_management/school_safety_contact](https://www.bcsdk12.net/departments/safety_and_risk_management/school_safety_contact) | [https://www.bcsdk12.net/departments/operations/safety-and-risk-management](https://www.bcsdk12.net/departments/operations/safety-and-risk-management) | 404 Not Found |
+| [https://www.bcsdk12.net/fs/resource-manager/view/dec1ff8a-dad7-4458-af81-a4b280f99279](https://www.bcsdk12.net/fs/resource-manager/view/dec1ff8a-dad7-4458-af81-a4b280f99279) | [https://www.bcsdk12.net/departments/instructional-technology](https://www.bcsdk12.net/departments/instructional-technology) | 404 Not Found |

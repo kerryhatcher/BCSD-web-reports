@@ -1,0 +1,6 @@
+# created by LinkChecker at 2025-12-19 00:06:22-004
+# Read the documentation at https://linkchecker.github.io/linkchecker/
+# Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+urlname;parentname;base;result;warningstring;infostring;valid;url;line;column;name;dltime;size;checktime;cached;level;modified
+https://weaver.bcsdk12.net/cms/One.aspx?portalId=1736221&pageId=1815476;https://weaver.bcsdk12.net/parents;;403 Forbidden;;;False;https://weaver.bcsdk12.net/cms/One.aspx?portalId=1736221&pageId=1815476;475;4;Immunization Requirements;-1;-1;15.136112451553345;0;2;
+# Stopped checking at 2025-12-19 00:06:59-004 (36 seconds)

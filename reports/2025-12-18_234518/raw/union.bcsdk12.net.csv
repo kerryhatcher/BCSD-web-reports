@@ -1,0 +1,9 @@
+# created by LinkChecker at 2025-12-19 00:01:05-004
+# Read the documentation at https://linkchecker.github.io/linkchecker/
+# Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+urlname;parentname;base;result;warningstring;infostring;valid;url;line;column;name;dltime;size;checktime;cached;level;modified
+https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/Living%20Life%20Online%20Brochure.pdf;https://union.bcsdk12.net/parents;;404 Not Found;;;False;https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/Living%20Life%20Online%20Brochure.pdf;619;4;Living Life Online Brochure;-1;-1;17.46199893951416;0;2;
+https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/pdf-0001-netcetera.pdf;https://union.bcsdk12.net/parents;;404 Not Found;;;False;https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/pdf-0001-netcetera.pdf;621;4;Net Cetera - Chatting with Kids about Being Online;-1;-1;17.55339741706848;0;2;
+https://union.bcsdk12.net/cms/One.aspx?portalId=1741996&pageId=2163586;https://union.bcsdk12.net/parents;;403 Forbidden;;;False;https://union.bcsdk12.net/cms/One.aspx?portalId=1741996&pageId=2163586;666;4;PBIS @ Union;-1;-1;17.278971672058105;0;2;
+https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/FY19%20Complaint%20Procedures.pdf;https://union.bcsdk12.net/parents;;404 Not Found;;;False;https://union.bcsdk12.net/UserFiles/Servers/Server_1741912/File/Parents/FY19%20Complaint%20Procedures.pdf;772;4;Elementary and Secondary Education Act Complaint Procedures;-1;-1;18.020254135131836;0;2;
+# Stopped checking at 2025-12-19 00:01:36-004 (30 seconds)
